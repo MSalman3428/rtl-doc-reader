@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RTL Doc Reader</string>
+    <string name="search_documents">Search documents (Arabic/Urdu/Pashto/English)</string>
+    <string name="found_matches">Found %d match(es)</string>
+    <string name="no_matches">No matches found</string>
+    <string name="page_indicator">Page %d of %d</string>
+    <string name="position_indicator">Pos %d-%d</string>
+    <string name="line_number">Line %d</string>
+    <string name="previous_match">◀ Previous Match</string>
+    <string name="next_match">Next Match ▶</string>
+    <string name="document_title">%s (Page %d)</string>
+</resources>

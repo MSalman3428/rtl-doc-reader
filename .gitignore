@@ -1,0 +1,62 @@
+# Android Studio
+.gradle
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Build directories
+build/
+.build/
+out/
+dist/
+
+# Local properties (contains Android SDK path)
+local.properties
+
+# Generated files
+gen/
+obj/
+
+# Generated APKs and other artifacts
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local environment
+.env
+.DS_Store
+
+# Log files
+*.log
+
+# Gradle wrapper
+gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Android Profiler
+profiler-results
+.android
+
+# Compiled Python
+*.pyc
+
+# Test results
+**/test-results/
+
+# Coverage
+coverage/
+.coverage
+
+# IDE files
+.classpath
+.project
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Kotlin
+.kotlin/
