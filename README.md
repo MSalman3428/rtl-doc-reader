@@ -270,3 +270,4 @@ A: Use `DocumentIndexWorker` for background processing and stream-paging for ren
 **Last Updated:** May 2026  
 **Phase 2 Status:** ✅ Complete  
 **Phase 3 Status:** 🔄 In Development
+# rtl-doc-reader
